@@ -3,7 +3,7 @@
 #' Bayesian linear regression with Stan
 #'
 #' @export
-#' @param x Numeric vector of input values.
+#' @param x Numeric vector of input values .
 #' @param y Numeric vector of output values.
 #' @param ... Arguments passed to `rstan::sampling` (e.g. iter, chains).
 #' @return An object of class `stanfit` returned by `rstan::sampling`
