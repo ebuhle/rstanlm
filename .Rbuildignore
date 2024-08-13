@@ -1,3 +1,7 @@
 ^rstanlm\.Rproj$
 ^\.Rproj\.user$
 ^inst/stan/lm2.stan.ignore
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
