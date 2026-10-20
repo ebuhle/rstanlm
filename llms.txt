@@ -1,0 +1,12 @@
+# rstanlm
+
+# Package index
+
+## All functions
+
+- [`lm_stan()`](https://ebuhle.github.io/rstanlm/reference/lm_stan.md) :
+  Bayesian linear regression with Stan
+- [`rstanlm-package`](https://ebuhle.github.io/rstanlm/reference/rstanlm-package.md)
+  [`rstanlm`](https://ebuhle.github.io/rstanlm/reference/rstanlm-package.md)
+  : The 'rstanlm' package.
+
